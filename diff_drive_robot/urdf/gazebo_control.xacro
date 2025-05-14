@@ -7,7 +7,7 @@
          <left_joint>left_wheel_joint</left_joint>
 
          <wheel_separation>0.35</wheel_separation>
-         <wheel_diameter>0.1</wheel_diameter>
+         <wheel_diameter>0.06</wheel_diameter>
 
          <max_linear_acceleration>10</max_linear_acceleration>
 
