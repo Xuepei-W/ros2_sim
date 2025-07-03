@@ -1,0 +1,19 @@
+<?xml version="2.0"?>
+<package format="3">
+  <name>zima_core</name>
+  <version>0.1.1</version>
+  <description>The core logic for project Zima, providing algorithm modules and core process management.</description>
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>protobuf</depend>
+  <depend>gflags</depend>
+  <depend>glog</depend>
+  <exec_depend>pthread</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
